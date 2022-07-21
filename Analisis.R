@@ -18,20 +18,17 @@
   boxplot(df$Cantidad,col=c("green"))
   boxplot(df$Total,col=c("yellow"))
   
+  boxplot(Total~Cantidad ,data = df,col=c("orange"))
   
-  
-  
-  #permite crear una amplia variedad de correlogramas con una sola función
-  # Posdata no se puedo aplicar este metodo investigar por que 
-  library(corrplot)
-  M=cor(df)
-  corrplot(M,method = 'number')
-  corrplot(M,method = 'pie')
-  corrplot(M,method = 'shade')
   
 
   
+  #permite crear una amplia variedad de correlogramas con una sola función
+  # Posdata no se puedo aplicar este metodo investigar por que 
   
+  M<-cor(df$Cantidad,df$Total)
+  library(corrplot)
+  corrplot(M, method="circle")
   
-  
+
   
