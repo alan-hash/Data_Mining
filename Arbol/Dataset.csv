@@ -1,0 +1,701 @@
+ID del pedido,DIA,Categoria,Comida,IDComida,Cantidad,Precio,Total,Valor
+1,Martes,Antojitos,Burrito de Longaniza,6,4,35,140,1
+2,Martes,Antojitos,HotDog,10,4,35,140,1
+3,Martes,Antojitos,Hamburguesa de Pollo,3,1,45,45,0
+4,Martes,Antojitos,Hamburguesa Hawaiana,2,7,50,350,1
+5,Martes,Antojitos,Hamburguesa de Pollo,3,2,45,90,0
+6,Martes,Antojitos,Hamburguesa de doble carne,4,2,75,150,0
+7,Martes,Antojitos,Pambazos,9,6,30,180,1
+8,Martes,Postres,Helado de limon,13,6,40,240,1
+9,Martes,Bebidas,Boing de Guayaba 500ml,17,5,18,90,1
+10,Martes,Antojitos,Hamburguesa Hawaiana,2,6,50,300,1
+11,Martes,Bebidas,Boing de Guayaba 500ml,17,3,18,54,-1
+12,Martes,Antojitos,Hamburguesa de pollo,3,3,45,135,-1
+13,Martes,Postres,Helado de limon,13,5,40,200,1
+14,Martes,Antojitos,Hamburguesa de doble carne,4,3,75,225,-1
+15,Martes,Bebidas,Boing Mango de 600 ml,16,7,20,140,1
+16,Martes,Antojitos,Burrito de Choriqueso,7,7,40,280,1
+17,Martes,Postres,Helado de fresa,14,1,50,50,0
+18,Martes,Antojitos,HotDog,10,6,35,210,1
+19,Martes,Antojitos,Pambazos,9,4,30,120,1
+20,Martes,Antojitos,Hamburguesa de Pollo,3,1,45,45,0
+21,Martes,Bebidas,Refresco Coca Cola 600 ml,15,7,20,140,1
+22,Martes,Postres,Helado de fresa,14,6,50,300,1
+23,Martes,Antojitos,HotDog,10,4,35,140,1
+24,Martes,Bebidas,Agua de limon 1L,18,1,25,25,0
+25,Martes,Antojitos,Hamburguesa de Pollo,3,4,45,180,1
+26,Martes,Bebidas,Boing de Guayaba 500ml,17,3,18,54,-1
+27,Martes,Bebidas,Boing Mango de 600 ml,16,2,20,40,0
+28,Martes,Bebidas,Agua de limon 1L,18,3,25,75,-1
+29,Martes,Postres,Helado de limon,13,3,40,120,-1
+30,Martes,Antojitos,Burrito de Longaniza,6,7,35,245,1
+31,Martes,Bebidas,Agua de limon 1L,18,5,25,125,1
+32,Martes,Antojitos,Chalupas,5,6,10,60,1
+33,Martes,Antojitos,Papas Fritas,8,7,35,245,1
+34,Martes,Postres,Pastel de 3 leches,11,4,45,180,1
+35,Martes,Postres,Pay de limon,12,2,40,80,0
+36,Martes,Postres,Helado de fresa,14,7,50,350,1
+37,Martes,Postres,Helado de limon,13,3,40,120,-1
+38,Martes,Antojitos,Hamburguesa de doble carne,4,7,75,525,1
+39,Martes,Bebidas,Boing Mango de 600 ml,16,1,20,20,0
+40,Martes,Bebidas,Agua de Horchata 1L,20,2,30,60,0
+41,Martes,Postres,Pastel de 3 leches,11,6,45,270,1
+42,Martes,Bebidas,Agua de limon 1L,18,1,25,25,0
+43,Martes,Bebidas,Boing de Guayaba 500ml,17,2,18,36,0
+44,Martes,Bebidas,Boing de Guayaba 500ml,17,5,18,90,1
+45,Martes,Antojitos,Hamburguesa de pollo,3,1,45,45,0
+46,Martes,Antojitos,HotDog,10,4,35,140,1
+47,Martes,Antojitos,Pambazos,9,6,30,180,1
+48,Martes,Antojitos,Hamburguesa sencilla,1,3,40,120,-1
+49,Martes,Antojitos,Hamburguesa de pollo,3,1,45,45,0
+50,Martes,Antojitos,HotDog,10,3,35,105,-1
+51,Martes,Antojitos,Pambazos,9,2,30,60,0
+52,Martes,Antojitos,Hamburguesa sencilla,1,5,40,200,1
+53,Martes,Antojitos,Hamburguesa de Pollo,3,3,45,135,-1
+54,Martes,Bebidas,Agua de Horchata 1L,20,2,30,60,0
+55,Martes,Bebidas,Boing de Guayaba 500ml,17,1,18,18,0
+56,Martes,Antojitos,Burrito de Longaniza,6,7,35,245,1
+57,Martes,Postres,Helado de fresa,14,6,50,300,1
+58,Martes,Bebidas,Agua de limon 1L,18,3,25,75,-1
+59,Martes,Postres,Helado de fresa,14,2,50,100,0
+60,Martes,Bebidas,Boing de Guayaba 500ml,17,3,18,54,-1
+61,Martes,Antojitos,Pambazos,9,5,30,150,1
+62,Martes,Bebidas,Agua de limon 1L,18,1,25,25,0
+63,Martes,Antojitos,Hamburguesa de pollo,3,5,45,225,1
+64,Martes,Postres,Pay de limon,12,1,40,40,0
+65,Martes,Antojitos,Hamburguesa sencilla,1,1,40,40,0
+66,Martes,Bebidas,Agua de limon 1L,18,3,25,75,-1
+67,Martes,Antojitos,Pambazos,9,7,30,210,1
+68,Martes,Antojitos,HotDog,10,5,35,175,1
+69,Martes,Antojitos,Hamburguesa de Pollo,3,7,45,315,1
+70,Martes,Postres,Helado de limon,13,7,40,280,1
+71,Martes,Antojitos,Hamburguesa Hawaiana,2,4,50,200,1
+72,Martes,Bebidas,Boing de Guayaba 500ml,17,3,18,54,-1
+73,Martes,Bebidas,Boing Mango de 600 ml,16,4,20,80,1
+74,Martes,Bebidas,Agua de limon 1L,18,7,25,175,1
+75,Martes,Antojitos,Hamburguesa de doble carne,4,4,75,300,1
+76,Martes,Antojitos,Papas Fritas,8,1,35,35,0
+77,Martes,Antojitos,HotDog,10,5,35,175,1
+78,Martes,Antojitos,Burrito de Longaniza,6,4,35,140,1
+79,Martes,Bebidas,Agua de Jamaica 1L,19,1,25,25,0
+80,Martes,Antojitos,Hamburguesa Hawaiana,2,4,50,200,1
+81,Martes,Bebidas,Boing de Guayaba 500ml,17,3,18,54,-1
+82,Martes,Antojitos,HotDog,10,6,35,210,1
+83,Martes,Bebidas,Boing Mango de 600 ml,16,5,20,100,1
+84,Martes,Postres,Pastel de 3 leches,11,6,45,270,1
+85,Martes,Postres,Helado de limon,13,3,40,120,-1
+86,Martes,Bebidas,Boing Mango de 600 ml,16,1,20,20,0
+87,Martes,Bebidas,Refresco Coca Cola 600 ml,15,6,20,120,1
+88,Martes,Antojitos,Hamburguesa Hawaiana,2,3,50,150,-1
+89,Martes,Bebidas,Boing de Guayaba 500ml,17,2,18,36,0
+90,Martes,Bebidas,Boing Mango de 600 ml,16,4,20,80,1
+91,Martes,Antojitos,Hamburguesa de doble carne,4,7,75,525,1
+92,Martes,Antojitos,HotDog,10,3,35,105,-1
+93,Martes,Antojitos,Hamburguesa Hawaiana,2,2,50,100,0
+94,Martes,Bebidas,Agua de Jamaica 1L,19,6,25,150,1
+95,Martes,Postres,Helado de limon,13,1,40,40,0
+96,Martes,Antojitos,Hamburguesa Hawaiana,2,2,50,100,0
+97,Martes,Antojitos,Burrito de Choriqueso,7,6,40,240,1
+98,Martes,Antojitos,Hamburguesa de Pollo,3,1,45,45,0
+99,Martes,Antojitos,Hamburguesa Hawaiana,2,7,50,350,1
+100,Martes,Antojitos,Hamburguesa de Pollo,3,5,45,225,1
+101,Miercoles,Bebidas,Agua de Jamaica 1L,19,4,25,100,1
+102,Miercoles,Antojitos,Pambazos,9,3,30,90,-1
+103,Miercoles,Antojitos,Burrito de Longaniza,6,5,35,175,1
+104,Miercoles,Antojitos,Hamburguesa sencilla,1,3,40,120,-1
+105,Miercoles,Bebidas,Boing Mango de 600 ml,16,4,20,80,1
+106,Miercoles,Antojitos,Burrito de Longaniza,6,1,35,35,0
+107,Miercoles,Bebidas,Agua de Jamaica 1L,19,4,25,100,1
+108,Miercoles,Antojitos,Hamburguesa de Pollo,3,7,45,315,1
+109,Miercoles,Antojitos,Hamburguesa de doble carne,4,4,75,300,1
+110,Miercoles,Antojitos,HotDog,10,7,35,245,1
+111,Miercoles,Antojitos,Pambazos,9,6,30,180,1
+112,Miercoles,Bebidas,Refresco Coca Cola 600 ml,15,1,20,20,0
+113,Miercoles,Postres,Helado de fresa,14,6,50,300,1
+114,Miercoles,Bebidas,Agua de limon 1L,18,3,25,75,-1
+115,Miercoles,Bebidas,Agua de Jamaica 1L,19,4,25,100,1
+116,Miercoles,Antojitos,Hamburguesa de pollo,3,3,45,135,-1
+117,Miercoles,Postres,Helado de fresa,14,7,50,350,1
+118,Miercoles,Antojitos,Papas Fritas,8,6,35,210,1
+119,Miercoles,Antojitos,Hamburguesa de doble carne,4,5,75,375,1
+120,Miercoles,Antojitos,Hamburguesa Hawaiana,2,2,50,100,0
+121,Miercoles,Antojitos,Burrito de Longaniza,6,6,35,210,1
+122,Miercoles,Antojitos,Hamburguesa de doble carne,4,2,75,150,0
+123,Miercoles,Bebidas,Boing de Guayaba 500ml,17,1,18,18,0
+124,Miercoles,Postres,Helado de fresa,14,3,50,150,-1
+125,Miercoles,Antojitos,Hamburguesa de pollo,3,7,45,315,1
+126,Miercoles,Antojitos,Papas Fritas,8,3,35,105,-1
+127,Miercoles,Antojitos,Hamburguesa sencilla,1,6,40,240,1
+128,Miercoles,Postres,Helado de fresa,14,2,50,100,0
+129,Miercoles,Postres,Helado de fresa,14,4,50,200,1
+130,Miercoles,Bebidas,Boing de Guayaba 500ml,17,2,18,36,0
+131,Miercoles,Bebidas,Boing de Guayaba 500ml,17,6,18,108,1
+132,Miercoles,Bebidas,Refresco Coca Cola 600 ml,15,7,20,140,1
+133,Miercoles,Postres,Pastel de 3 leches,11,5,45,225,1
+134,Miercoles,Antojitos,Hamburguesa sencilla,1,7,40,280,1
+135,Miercoles,Antojitos,Hamburguesa de Pollo,3,4,45,180,1
+136,Miercoles,Antojitos,Papas Fritas,8,7,35,245,1
+137,Miercoles,Postres,Helado de fresa,14,3,50,150,-1
+138,Miercoles,Postres,Pay de limon,12,1,40,40,0
+139,Miercoles,Bebidas,Refresco Coca Cola 600 ml,15,7,20,140,1
+140,Miercoles,Antojitos,Hamburguesa Hawaiana,2,1,50,50,0
+141,Miercoles,Bebidas,Refresco Coca Cola 600 ml,15,4,20,80,1
+142,Miercoles,Postres,Pay de limon,12,4,40,160,1
+143,Miercoles,Antojitos,Chalupas,5,2,10,20,0
+144,Miercoles,Bebidas,Boing Mango de 600 ml,16,7,20,140,1
+145,Miercoles,Antojitos,Hamburguesa de pollo,3,3,45,135,-1
+146,Miercoles,Postres,Pay de limon,12,4,40,160,1
+147,Miercoles,Bebidas,Refresco Coca Cola 600 ml,15,4,20,80,1
+148,Miercoles,Postres,Pay de limon,12,2,40,80,0
+149,Miercoles,Bebidas,Boing Mango de 600 ml,16,6,20,120,1
+150,Miercoles,Antojitos,Hamburguesa Hawaiana,2,3,50,150,-1
+151,Miercoles,Antojitos,Pambazos,9,4,30,120,1
+152,Miercoles,Bebidas,Refresco Coca Cola 600 ml,15,2,20,40,0
+153,Miercoles,Postres,Helado de limon,13,5,40,200,1
+154,Miercoles,Postres,Pay de limon,12,1,40,40,0
+155,Miercoles,Bebidas,Agua de Jamaica 1L,19,5,25,125,1
+156,Miercoles,Bebidas,Refresco Coca Cola 600 ml,15,1,20,20,0
+157,Miercoles,Antojitos,Chalupas,5,3,10,30,-1
+158,Miercoles,Bebidas,Boing Mango de 600 ml,16,4,20,80,1
+159,Miercoles,Bebidas,Agua de limon 1L,18,7,25,175,1
+160,Miercoles,Antojitos,Papas Fritas,8,3,35,105,-1
+161,Miercoles,Bebidas,Agua de Horchata 1L,20,5,30,150,1
+162,Miercoles,Bebidas,Agua de Jamaica 1L,19,2,25,50,0
+163,Miercoles,Antojitos,Burrito de Choriqueso,7,6,40,240,1
+164,Miercoles,Antojitos,Hamburguesa de pollo,3,4,45,180,1
+165,Miercoles,Antojitos,Hamburguesa de Pollo,3,4,45,180,1
+166,Miercoles,Antojitos,Hamburguesa de pollo,3,2,45,90,0
+167,Miercoles,Postres,Pay de limon,12,6,40,240,1
+168,Miercoles,Postres,Helado de limon,13,3,40,120,-1
+169,Miercoles,Antojitos,Hamburguesa Hawaiana,2,4,50,200,1
+170,Miercoles,Antojitos,Hamburguesa Hawaiana,2,6,50,300,1
+171,Miercoles,Antojitos,Chalupas,5,1,10,10,0
+172,Miercoles,Bebidas,Agua de Horchata 1L,20,1,30,30,0
+173,Miercoles,Antojitos,Chalupas,5,7,10,70,1
+174,Miercoles,Antojitos,Pambazos,9,2,30,60,0
+175,Miercoles,Bebidas,Agua de Horchata 1L,20,1,30,30,0
+176,Miercoles,Antojitos,HotDog,10,3,35,105,-1
+177,Miercoles,Postres,Pay de limon,12,2,40,80,0
+178,Miercoles,Bebidas,Agua de Horchata 1L,20,5,30,150,1
+179,Miercoles,Bebidas,Boing Mango de 600 ml,16,3,20,60,-1
+180,Miercoles,Postres,Helado de fresa,14,3,50,150,-1
+181,Miercoles,Antojitos,Hamburguesa de doble carne,4,3,75,225,-1
+182,Miercoles,Bebidas,Boing Mango de 600 ml,16,7,20,140,1
+183,Miercoles,Antojitos,Hamburguesa Hawaiana,2,7,50,350,1
+184,Miercoles,Postres,Helado de limon,13,5,40,200,1
+185,Miercoles,Antojitos,Hamburguesa de pollo,3,3,45,135,-1
+186,Miercoles,Antojitos,Burrito de Longaniza,6,5,35,175,1
+187,Miercoles,Bebidas,Boing Mango de 600 ml,16,5,20,100,1
+188,Miercoles,Bebidas,Boing de Guayaba 500ml,17,5,18,90,1
+189,Miercoles,Antojitos,Chalupas,5,2,10,20,0
+190,Miercoles,Antojitos,Hamburguesa de Pollo,3,4,45,180,1
+191,Miercoles,Antojitos,Hamburguesa sencilla,1,2,40,80,0
+192,Miercoles,Antojitos,Papas Fritas,8,3,35,105,-1
+193,Miercoles,Antojitos,Hamburguesa sencilla,1,4,40,160,1
+194,Miercoles,Bebidas,Refresco Coca Cola 600 ml,15,5,20,100,1
+195,Miercoles,Antojitos,Hamburguesa sencilla,1,3,40,120,-1
+196,Miercoles,Postres,Pay de limon,12,5,40,200,1
+197,Miercoles,Antojitos,Burrito de Choriqueso,7,3,40,120,-1
+198,Miercoles,Antojitos,HotDog,10,2,35,70,0
+199,Miercoles,Antojitos,Chalupas,5,5,10,50,1
+200,Miercoles,Antojitos,Hamburguesa sencilla,1,5,40,200,1
+201,Jueves,Antojitos,HotDog,10,5,35,175,1
+202,Jueves,Bebidas,Refresco Coca Cola 600 ml,15,6,20,120,1
+203,Jueves,Antojitos,Hamburguesa sencilla,1,1,40,40,0
+204,Jueves,Antojitos,Hamburguesa Hawaiana,2,1,50,50,0
+205,Jueves,Antojitos,Burrito de Longaniza,6,4,35,140,1
+206,Jueves,Bebidas,Refresco Coca Cola 600 ml,15,1,20,20,0
+207,Jueves,Antojitos,Hamburguesa de Pollo,3,4,45,180,1
+208,Jueves,Bebidas,Agua de Jamaica 1L,19,7,25,175,1
+209,Jueves,Bebidas,Agua de Jamaica 1L,19,4,25,100,1
+210,Jueves,Postres,Helado de limon,13,5,40,200,1
+211,Jueves,Postres,Helado de limon,13,2,40,80,0
+212,Jueves,Antojitos,Burrito de Choriqueso,7,1,40,40,0
+213,Jueves,Bebidas,Boing Mango de 600 ml,16,1,20,20,0
+214,Jueves,Bebidas,Agua de Jamaica 1L,19,1,25,25,0
+215,Jueves,Antojitos,Burrito de Longaniza,6,6,35,210,1
+216,Jueves,Bebidas,Agua de Jamaica 1L,19,1,25,25,0
+217,Jueves,Antojitos,Hamburguesa Hawaiana,2,6,50,300,1
+218,Jueves,Antojitos,Hamburguesa de doble carne,4,2,75,150,0
+219,Jueves,Antojitos,Hamburguesa de pollo,3,6,45,270,1
+220,Jueves,Bebidas,Refresco Coca Cola 600 ml,15,6,20,120,1
+221,Jueves,Antojitos,HotDog,10,1,35,35,0
+222,Jueves,Postres,Pay de limon,12,4,40,160,1
+223,Jueves,Antojitos,Papas Fritas,8,5,35,175,1
+224,Jueves,Postres,Helado de fresa,14,4,50,200,1
+225,Jueves,Postres,Helado de limon,13,1,40,40,0
+226,Jueves,Bebidas,Boing de Guayaba 500ml,17,6,18,108,1
+227,Jueves,Antojitos,HotDog,10,3,35,105,-1
+228,Jueves,Postres,Helado de fresa,14,1,50,50,0
+229,Jueves,Antojitos,Hamburguesa de Pollo,3,3,45,135,-1
+230,Jueves,Antojitos,Hamburguesa Hawaiana,2,2,50,100,0
+231,Jueves,Antojitos,HotDog,10,1,35,35,0
+232,Jueves,Antojitos,Hamburguesa sencilla,1,6,40,240,1
+233,Jueves,Antojitos,Burrito de Longaniza,6,4,35,140,1
+234,Jueves,Bebidas,Refresco Coca Cola 600 ml,15,4,20,80,1
+235,Jueves,Antojitos,Hamburguesa de pollo,3,1,45,45,0
+236,Jueves,Antojitos,Burrito de Choriqueso,7,2,40,80,0
+237,Jueves,Bebidas,Agua de Jamaica 1L,19,2,25,50,0
+238,Jueves,Bebidas,Refresco Coca Cola 600 ml,15,1,20,20,0
+239,Jueves,Antojitos,Hamburguesa de doble carne,4,1,75,75,0
+240,Jueves,Antojitos,Pambazos,9,3,30,90,-1
+241,Jueves,Postres,Pastel de 3 leches,11,3,45,135,-1
+242,Jueves,Antojitos,Hamburguesa de pollo,3,7,45,315,1
+243,Jueves,Antojitos,Chalupas,5,5,10,50,1
+244,Jueves,Antojitos,Hamburguesa de Pollo,3,4,45,180,1
+245,Jueves,Postres,Pastel de 3 leches,11,6,45,270,1
+246,Jueves,Bebidas,Agua de Horchata 1L,20,7,30,210,1
+247,Jueves,Bebidas,Agua de Horchata 1L,20,1,30,30,0
+248,Jueves,Antojitos,Burrito de Longaniza,6,2,35,70,0
+249,Jueves,Antojitos,Hamburguesa de doble carne,4,5,75,375,1
+250,Jueves,Antojitos,Hamburguesa de Pollo,3,6,45,270,1
+251,Jueves,Antojitos,Hamburguesa sencilla,1,7,40,280,1
+252,Jueves,Antojitos,HotDog,10,5,35,175,1
+253,Jueves,Bebidas,Agua de Horchata 1L,20,5,30,150,1
+254,Jueves,Antojitos,Hamburguesa sencilla,1,4,40,160,1
+255,Jueves,Antojitos,Burrito de Choriqueso,7,3,40,120,-1
+256,Jueves,Bebidas,Refresco Coca Cola 600 ml,15,6,20,120,1
+257,Jueves,Postres,Pastel de 3 leches,11,3,45,135,-1
+258,Jueves,Antojitos,Pambazos,9,6,30,180,1
+259,Jueves,Postres,Pastel de 3 leches,11,1,45,45,0
+260,Jueves,Antojitos,Hamburguesa Hawaiana,2,7,50,350,1
+261,Jueves,Postres,Pay de limon,12,4,40,160,1
+262,Jueves,Bebidas,Agua de Jamaica 1L,19,1,25,25,0
+263,Jueves,Antojitos,Hamburguesa de doble carne,4,7,75,525,1
+264,Jueves,Postres,Pay de limon,12,3,40,120,-1
+265,Jueves,Antojitos,Burrito de Choriqueso,7,4,40,160,1
+266,Jueves,Antojitos,Hamburguesa de Pollo,3,7,45,315,1
+267,Jueves,Postres,Pay de limon,12,3,40,120,-1
+268,Jueves,Postres,Helado de fresa,14,7,50,350,1
+269,Jueves,Bebidas,Agua de limon 1L,18,2,25,50,0
+270,Jueves,Bebidas,Boing de Guayaba 500ml,17,7,18,126,1
+271,Jueves,Antojitos,Hamburguesa de doble carne,4,3,75,225,-1
+272,Jueves,Antojitos,Burrito de Choriqueso,7,2,40,80,0
+273,Jueves,Postres,Helado de limon,13,4,40,160,1
+274,Jueves,Bebidas,Agua de Jamaica 1L,19,6,25,150,1
+275,Jueves,Postres,Helado de fresa,14,4,50,200,1
+276,Jueves,Antojitos,Burrito de Longaniza,6,2,35,70,0
+277,Jueves,Antojitos,Hamburguesa de Pollo,3,4,45,180,1
+278,Jueves,Bebidas,Agua de Horchata 1L,20,6,30,180,1
+279,Jueves,Antojitos,Burrito de Longaniza,6,7,35,245,1
+280,Jueves,Antojitos,Burrito de Choriqueso,7,4,40,160,1
+281,Jueves,Antojitos,Hamburguesa de doble carne,4,5,75,375,1
+282,Jueves,Antojitos,Burrito de Choriqueso,7,2,40,80,0
+283,Jueves,Bebidas,Boing Mango de 600 ml,16,2,20,40,0
+284,Jueves,Bebidas,Agua de limon 1L,18,5,25,125,1
+285,Jueves,Postres,Helado de limon,13,2,40,80,0
+286,Jueves,Postres,Pastel de 3 leches,11,4,45,180,1
+287,Jueves,Postres,Helado de limon,13,4,40,160,1
+288,Jueves,Bebidas,Agua de Jamaica 1L,19,1,25,25,0
+289,Jueves,Antojitos,Papas Fritas,8,3,35,105,-1
+290,Jueves,Antojitos,Hamburguesa sencilla,1,2,40,80,0
+291,Jueves,Bebidas,Refresco Coca Cola 600 ml,15,1,20,20,0
+292,Jueves,Antojitos,HotDog,10,7,35,245,1
+293,Jueves,Antojitos,Pambazos,9,5,30,150,1
+294,Jueves,Antojitos,Hamburguesa Hawaiana,2,5,50,250,1
+295,Jueves,Antojitos,Pambazos,9,3,30,90,-1
+296,Jueves,Antojitos,Burrito de Choriqueso,7,5,40,200,1
+297,Jueves,Bebidas,Boing Mango de 600 ml,16,2,20,40,0
+298,Jueves,Antojitos,Burrito de Longaniza,6,1,35,35,0
+299,Jueves,Antojitos,Hamburguesa de doble carne,4,1,75,75,0
+300,Jueves,Antojitos,Papas Fritas,8,1,35,35,0
+301,Viernes,Postres,Helado de limon,13,4,40,160,1
+302,Viernes,Bebidas,Agua de limon 1L,18,2,25,50,0
+303,Viernes,Bebidas,Agua de limon 1L,18,4,25,100,1
+304,Viernes,Postres,Pay de limon,12,5,40,200,1
+305,Viernes,Antojitos,Chalupas,5,2,10,20,0
+306,Viernes,Bebidas,Agua de Horchata 1L,20,1,30,30,0
+307,Viernes,Antojitos,Hamburguesa de pollo,3,1,45,45,0
+308,Viernes,Postres,Pay de limon,12,4,40,160,1
+309,Viernes,Antojitos,Papas Fritas,8,1,35,35,0
+310,Viernes,Antojitos,Hamburguesa de Pollo,3,2,45,90,0
+311,Viernes,Bebidas,Boing de Guayaba 500ml,17,3,18,54,-1
+312,Viernes,Antojitos,Chalupas,5,7,10,70,1
+313,Viernes,Antojitos,Hamburguesa de pollo,3,7,45,315,1
+314,Viernes,Bebidas,Agua de Jamaica 1L,19,1,25,25,0
+315,Viernes,Postres,Helado de fresa,14,2,50,100,0
+316,Viernes,Bebidas,Agua de Horchata 1L,20,4,30,120,1
+317,Viernes,Antojitos,Papas Fritas,8,1,35,35,0
+318,Viernes,Antojitos,Papas Fritas,8,3,35,105,-1
+319,Viernes,Postres,Pastel de 3 leches,11,4,45,180,1
+320,Viernes,Antojitos,Burrito de Choriqueso,7,2,40,80,0
+321,Viernes,Antojitos,Hamburguesa de pollo,3,1,45,45,0
+322,Viernes,Antojitos,Hamburguesa de pollo,3,2,45,90,0
+323,Viernes,Bebidas,Agua de Horchata 1L,20,6,30,180,1
+324,Viernes,Antojitos,Papas Fritas,8,5,35,175,1
+325,Viernes,Antojitos,Hamburguesa de Pollo,3,3,45,135,-1
+326,Viernes,Postres,Pastel de 3 leches,11,3,45,135,-1
+327,Viernes,Antojitos,Burrito de Choriqueso,7,5,40,200,1
+328,Viernes,Bebidas,Refresco Coca Cola 600 ml,15,2,20,40,0
+329,Viernes,Bebidas,Agua de Jamaica 1L,19,4,25,100,1
+330,Viernes,Antojitos,Pambazos,9,2,30,60,0
+331,Viernes,Postres,Helado de fresa,14,4,50,200,1
+332,Viernes,Bebidas,Boing de Guayaba 500ml,17,4,18,72,1
+333,Viernes,Bebidas,Boing Mango de 600 ml,16,4,20,80,1
+334,Viernes,Antojitos,Hamburguesa de pollo,3,6,45,270,1
+335,Viernes,Antojitos,Hamburguesa Hawaiana,2,3,50,150,-1
+336,Viernes,Bebidas,Agua de Horchata 1L,20,5,30,150,1
+337,Viernes,Antojitos,Papas Fritas,8,5,35,175,1
+338,Viernes,Bebidas,Agua de Horchata 1L,20,3,30,90,-1
+339,Viernes,Antojitos,Pambazos,9,3,30,90,-1
+340,Viernes,Antojitos,Hamburguesa de doble carne,4,5,75,375,1
+341,Viernes,Antojitos,Chalupas,5,7,10,70,1
+342,Viernes,Antojitos,Burrito de Choriqueso,7,1,40,40,0
+343,Viernes,Antojitos,HotDog,10,4,35,140,1
+344,Viernes,Antojitos,Burrito de Longaniza,6,3,35,105,-1
+345,Viernes,Bebidas,Agua de Jamaica 1L,19,7,25,175,1
+346,Viernes,Bebidas,Boing Mango de 600 ml,16,4,20,80,1
+347,Viernes,Postres,Pay de limon,12,6,40,240,1
+348,Viernes,Postres,Helado de fresa,14,1,50,50,0
+349,Viernes,Antojitos,Pambazos,9,7,30,210,1
+350,Viernes,Postres,Pastel de 3 leches,11,2,45,90,0
+351,Viernes,Bebidas,Refresco Coca Cola 600 ml,15,1,20,20,0
+352,Viernes,Antojitos,Hamburguesa de pollo,3,5,45,225,1
+353,Viernes,Antojitos,Papas Fritas,8,7,35,245,1
+354,Viernes,Antojitos,Hamburguesa sencilla,1,3,40,120,-1
+355,Viernes,Antojitos,Chalupas,5,2,10,20,0
+356,Viernes,Antojitos,Hamburguesa de pollo,3,3,45,135,-1
+357,Viernes,Bebidas,Boing Mango de 600 ml,16,6,20,120,1
+358,Viernes,Antojitos,Hamburguesa de Pollo,3,3,45,135,-1
+359,Viernes,Antojitos,Chalupas,5,5,10,50,1
+360,Viernes,Antojitos,Hamburguesa sencilla,1,5,40,200,1
+361,Viernes,Antojitos,Hamburguesa de pollo,3,5,45,225,1
+362,Viernes,Antojitos,Hamburguesa de doble carne,4,3,75,225,-1
+363,Viernes,Antojitos,Papas Fritas,8,4,35,140,1
+364,Viernes,Antojitos,Burrito de Choriqueso,7,3,40,120,-1
+365,Viernes,Antojitos,Hamburguesa de Pollo,3,5,45,225,1
+366,Viernes,Antojitos,Pambazos,9,6,30,180,1
+367,Viernes,Bebidas,Agua de Horchata 1L,20,5,30,150,1
+368,Viernes,Bebidas,Refresco Coca Cola 600 ml,15,4,20,80,1
+369,Viernes,Antojitos,Hamburguesa de doble carne,4,3,75,225,-1
+370,Viernes,Antojitos,HotDog,10,1,35,35,0
+371,Viernes,Antojitos,HotDog,10,4,35,140,1
+372,Viernes,Antojitos,Hamburguesa de Pollo,3,3,45,135,-1
+373,Viernes,Antojitos,Hamburguesa sencilla,1,5,40,200,1
+374,Viernes,Antojitos,Hamburguesa de doble carne,4,2,75,150,0
+375,Viernes,Bebidas,Boing de Guayaba 500ml,17,5,18,90,1
+376,Viernes,Bebidas,Agua de Horchata 1L,20,4,30,120,1
+377,Viernes,Bebidas,Boing de Guayaba 500ml,17,7,18,126,1
+378,Viernes,Bebidas,Agua de Horchata 1L,20,1,30,30,0
+379,Viernes,Postres,Helado de limon,13,5,40,200,1
+380,Viernes,Bebidas,Boing de Guayaba 500ml,17,1,18,18,0
+381,Viernes,Bebidas,Agua de Jamaica 1L,19,4,25,100,1
+382,Viernes,Bebidas,Refresco Coca Cola 600 ml,15,5,20,100,1
+383,Viernes,Bebidas,Boing Mango de 600 ml,16,1,20,20,0
+384,Viernes,Antojitos,Hamburguesa Hawaiana,2,3,50,150,-1
+385,Viernes,Postres,Pastel de 3 leches,11,2,45,90,0
+386,Viernes,Antojitos,Hamburguesa sencilla,1,1,40,40,0
+387,Viernes,Antojitos,Papas Fritas,8,1,35,35,0
+388,Viernes,Antojitos,Hamburguesa sencilla,1,6,40,240,1
+389,Viernes,Antojitos,Chalupas,5,3,10,30,-1
+390,Viernes,Antojitos,Hamburguesa de Pollo,3,4,45,180,1
+391,Viernes,Antojitos,Burrito de Choriqueso,7,1,40,40,0
+392,Viernes,Bebidas,Agua de Horchata 1L,20,5,30,150,1
+393,Viernes,Bebidas,Agua de Horchata 1L,20,3,30,90,-1
+394,Viernes,Antojitos,Burrito de Longaniza,6,6,35,210,1
+395,Viernes,Postres,Pastel de 3 leches,11,3,45,135,-1
+396,Viernes,Bebidas,Boing de Guayaba 500ml,17,7,18,126,1
+397,Viernes,Antojitos,Papas Fritas,8,7,35,245,1
+398,Viernes,Postres,Pastel de 3 leches,11,1,45,45,0
+399,Viernes,Bebidas,Boing Mango de 600 ml,16,3,20,60,-1
+400,Viernes,Bebidas,Agua de limon 1L,18,1,25,25,0
+401,Sabado,Antojitos,Pambazos,9,5,30,150,1
+402,Sabado,Postres,Helado de fresa,14,4,50,200,1
+403,Sabado,Postres,Pay de limon,12,4,40,160,1
+404,Sabado,Postres,Helado de limon,13,7,40,280,1
+405,Sabado,Antojitos,Papas Fritas,8,2,35,70,0
+406,Sabado,Antojitos,Hamburguesa sencilla,1,6,40,240,1
+407,Sabado,Antojitos,Hamburguesa de pollo,3,1,45,45,0
+408,Sabado,Antojitos,Hamburguesa Hawaiana,2,3,50,150,-1
+409,Sabado,Bebidas,Agua de Horchata 1L,20,1,30,30,0
+410,Sabado,Postres,Pastel de 3 leches,11,7,45,315,1
+411,Sabado,Antojitos,Burrito de Choriqueso,7,4,40,160,1
+412,Sabado,Postres,Pastel de 3 leches,11,5,45,225,1
+413,Sabado,Antojitos,Chalupas,5,7,10,70,1
+414,Sabado,Postres,Pastel de 3 leches,11,4,45,180,1
+415,Sabado,Bebidas,Refresco Coca Cola 600 ml,15,5,20,100,1
+416,Sabado,Antojitos,Pambazos,9,4,30,120,1
+417,Sabado,Bebidas,Agua de limon 1L,18,2,25,50,0
+418,Sabado,Antojitos,Papas Fritas,8,1,35,35,0
+419,Sabado,Postres,Pay de limon,12,2,40,80,0
+420,Sabado,Postres,Pastel de 3 leches,11,7,45,315,1
+421,Sabado,Bebidas,Agua de limon 1L,18,4,25,100,1
+422,Sabado,Antojitos,Hamburguesa sencilla,1,3,40,120,-1
+423,Sabado,Antojitos,Pambazos,9,3,30,90,-1
+424,Sabado,Antojitos,Hamburguesa Hawaiana,2,1,50,50,0
+425,Sabado,Antojitos,Hamburguesa de doble carne,4,1,75,75,0
+426,Sabado,Postres,Helado de limon,13,2,40,80,0
+427,Sabado,Bebidas,Refresco Coca Cola 600 ml,15,6,20,120,1
+428,Sabado,Antojitos,Hamburguesa de pollo,3,6,45,270,1
+429,Sabado,Antojitos,Papas Fritas,8,3,35,105,-1
+430,Sabado,Bebidas,Agua de Horchata 1L,20,3,30,90,-1
+431,Sabado,Antojitos,Burrito de Longaniza,6,4,35,140,1
+432,Sabado,Antojitos,Burrito de Choriqueso,7,2,40,80,0
+433,Sabado,Bebidas,Agua de limon 1L,18,2,25,50,0
+434,Sabado,Postres,Helado de limon,13,1,40,40,0
+435,Sabado,Antojitos,Burrito de Choriqueso,7,2,40,80,0
+436,Sabado,Antojitos,Hamburguesa de pollo,3,1,45,45,0
+437,Sabado,Bebidas,Agua de Jamaica 1L,19,1,25,25,0
+438,Sabado,Bebidas,Boing de Guayaba 500ml,17,3,18,54,-1
+439,Sabado,Postres,Pay de limon,12,6,40,240,1
+440,Sabado,Postres,Pay de limon,12,4,40,160,1
+441,Sabado,Bebidas,Agua de Horchata 1L,20,3,30,90,-1
+442,Sabado,Bebidas,Agua de limon 1L,18,5,25,125,1
+443,Sabado,Bebidas,Agua de Jamaica 1L,19,3,25,75,-1
+444,Sabado,Antojitos,HotDog,10,4,35,140,1
+445,Sabado,Antojitos,Hamburguesa de pollo,3,2,45,90,0
+446,Sabado,Antojitos,Burrito de Longaniza,6,3,35,105,-1
+447,Sabado,Antojitos,Hamburguesa Hawaiana,2,5,50,250,1
+448,Sabado,Antojitos,Pambazos,9,2,30,60,0
+449,Sabado,Postres,Helado de fresa,14,1,50,50,0
+450,Sabado,Bebidas,Boing Mango de 600 ml,16,4,20,80,1
+451,Sabado,Bebidas,Agua de Horchata 1L,20,7,30,210,1
+452,Sabado,Bebidas,Agua de limon 1L,18,4,25,100,1
+453,Sabado,Antojitos,Papas Fritas,8,5,35,175,1
+454,Sabado,Bebidas,Agua de Jamaica 1L,19,1,25,25,0
+455,Sabado,Bebidas,Refresco Coca Cola 600 ml,15,2,20,40,0
+456,Sabado,Antojitos,Papas Fritas,8,6,35,210,1
+457,Sabado,Antojitos,Hamburguesa de doble carne,4,4,75,300,1
+458,Sabado,Bebidas,Boing de Guayaba 500ml,17,3,18,54,-1
+459,Sabado,Antojitos,Burrito de Choriqueso,7,6,40,240,1
+460,Sabado,Antojitos,Hamburguesa de pollo,3,5,45,225,1
+461,Sabado,Antojitos,Chalupas,5,6,10,60,1
+462,Sabado,Antojitos,Hamburguesa de pollo,3,6,45,270,1
+463,Sabado,Postres,Pastel de 3 leches,11,3,45,135,-1
+464,Sabado,Postres,Helado de fresa,14,4,50,200,1
+465,Sabado,Bebidas,Boing de Guayaba 500ml,17,4,18,72,1
+466,Sabado,Postres,Pastel de 3 leches,11,7,45,315,1
+467,Sabado,Antojitos,Hamburguesa de Pollo,3,7,45,315,1
+468,Sabado,Antojitos,Chalupas,5,4,10,40,1
+469,Sabado,Antojitos,Burrito de Choriqueso,7,4,40,160,1
+470,Sabado,Bebidas,Agua de limon 1L,18,7,25,175,1
+471,Sabado,Antojitos,Chalupas,5,1,10,10,0
+472,Sabado,Bebidas,Agua de Horchata 1L,20,4,30,120,1
+473,Sabado,Bebidas,Boing de Guayaba 500ml,17,4,18,72,1
+474,Sabado,Antojitos,Hamburguesa de doble carne,4,4,75,300,1
+475,Sabado,Antojitos,Hamburguesa de pollo,3,3,45,135,-1
+476,Sabado,Antojitos,Hamburguesa Hawaiana,2,7,50,350,1
+477,Sabado,Antojitos,Pambazos,9,2,30,60,0
+478,Sabado,Antojitos,HotDog,10,3,35,105,-1
+479,Sabado,Antojitos,Hamburguesa sencilla,1,7,40,280,1
+480,Sabado,Postres,Helado de limon,13,1,40,40,0
+481,Sabado,Antojitos,Hamburguesa de doble carne,4,3,75,225,-1
+482,Sabado,Postres,Helado de fresa,14,2,50,100,0
+483,Sabado,Postres,Helado de fresa,14,2,50,100,0
+484,Sabado,Antojitos,Hamburguesa sencilla,1,5,40,200,1
+485,Sabado,Postres,Pastel de 3 leches,11,5,45,225,1
+486,Sabado,Antojitos,Pambazos,9,7,30,210,1
+487,Sabado,Antojitos,Burrito de Choriqueso,7,5,40,200,1
+488,Sabado,Postres,Pay de limon,12,2,40,80,0
+489,Sabado,Antojitos,Hamburguesa sencilla,1,6,40,240,1
+490,Sabado,Antojitos,Hamburguesa de doble carne,4,5,75,375,1
+491,Sabado,Bebidas,Agua de limon 1L,18,5,25,125,1
+492,Sabado,Antojitos,HotDog,10,5,35,175,1
+493,Sabado,Antojitos,Hamburguesa sencilla,1,1,40,40,0
+494,Sabado,Bebidas,Agua de Horchata 1L,20,2,30,60,0
+495,Sabado,Postres,Pastel de 3 leches,11,6,45,270,1
+496,Sabado,Antojitos,Burrito de Longaniza,6,1,35,35,0
+497,Sabado,Postres,Pastel de 3 leches,11,4,45,180,1
+498,Sabado,Antojitos,Hamburguesa de doble carne,4,3,75,225,-1
+499,Sabado,Postres,Pastel de 3 leches,11,6,45,270,1
+500,Sabado,Antojitos,Hamburguesa de pollo,3,3,45,135,-1
+501,Domingo,Bebidas,Agua de limon 1L,18,2,25,50,0
+502,Domingo,Antojitos,Hamburguesa Hawaiana,2,1,50,50,0
+503,Domingo,Postres,Helado de fresa,14,6,50,300,1
+504,Domingo,Antojitos,Pambazos,9,7,30,210,1
+505,Domingo,Postres,Pay de limon,12,2,40,80,0
+506,Domingo,Bebidas,Agua de Jamaica 1L,19,4,25,100,1
+507,Domingo,Bebidas,Boing Mango de 600 ml,16,6,20,120,1
+508,Domingo,Bebidas,Boing Mango de 600 ml,16,4,20,80,1
+509,Domingo,Antojitos,HotDog,10,3,35,105,-1
+510,Domingo,Bebidas,Boing de Guayaba 500ml,17,6,18,108,1
+511,Domingo,Antojitos,Burrito de Choriqueso,7,6,40,240,1
+512,Domingo,Antojitos,Hamburguesa de Pollo,3,4,45,180,1
+513,Domingo,Bebidas,Agua de limon 1L,18,4,25,100,1
+514,Domingo,Antojitos,Hamburguesa de pollo,3,5,45,225,1
+515,Domingo,Postres,Pastel de 3 leches,11,3,45,135,-1
+516,Domingo,Postres,Pay de limon,12,7,40,280,1
+517,Domingo,Bebidas,Boing Mango de 600 ml,16,4,20,80,1
+518,Domingo,Antojitos,Hamburguesa Hawaiana,2,7,50,350,1
+519,Domingo,Antojitos,Burrito de Choriqueso,7,6,40,240,1
+520,Domingo,Postres,Pay de limon,12,3,40,120,-1
+521,Domingo,Antojitos,Chalupas,5,6,10,60,1
+522,Domingo,Bebidas,Refresco Coca Cola 600 ml,15,1,20,20,0
+523,Domingo,Antojitos,Hamburguesa Hawaiana,2,2,50,100,0
+524,Domingo,Postres,Helado de limon,13,2,40,80,0
+525,Domingo,Antojitos,Hamburguesa de Pollo,3,5,45,225,1
+526,Domingo,Antojitos,Hamburguesa de doble carne,4,1,75,75,0
+527,Domingo,Antojitos,Burrito de Longaniza,6,6,35,210,1
+528,Domingo,Postres,Helado de limon,13,3,40,120,-1
+529,Domingo,Bebidas,Agua de limon 1L,18,6,25,150,1
+530,Domingo,Antojitos,Burrito de Longaniza,6,3,35,105,-1
+531,Domingo,Bebidas,Agua de limon 1L,18,2,25,50,0
+532,Domingo,Bebidas,Boing Mango de 600 ml,16,7,20,140,1
+533,Domingo,Antojitos,HotDog,10,6,35,210,1
+534,Domingo,Postres,Pay de limon,12,5,40,200,1
+535,Domingo,Bebidas,Refresco Coca Cola 600 ml,15,7,20,140,1
+536,Domingo,Antojitos,Hamburguesa de doble carne,4,2,75,150,0
+537,Domingo,Bebidas,Boing Mango de 600 ml,16,2,20,40,0
+538,Domingo,Antojitos,Hamburguesa de pollo,3,5,45,225,1
+539,Domingo,Bebidas,Boing Mango de 600 ml,16,5,20,100,1
+540,Domingo,Antojitos,HotDog,10,5,35,175,1
+541,Domingo,Antojitos,Chalupas,5,2,10,20,0
+542,Domingo,Antojitos,HotDog,10,6,35,210,1
+543,Domingo,Antojitos,Chalupas,5,6,10,60,1
+544,Domingo,Postres,Helado de fresa,14,1,50,50,0
+545,Domingo,Antojitos,HotDog,10,2,35,70,0
+546,Domingo,Postres,Pastel de 3 leches,11,7,45,315,1
+547,Domingo,Antojitos,Papas Fritas,8,5,35,175,1
+548,Domingo,Antojitos,Hamburguesa de Pollo,3,1,45,45,0
+549,Domingo,Antojitos,HotDog,10,6,35,210,1
+550,Domingo,Antojitos,Hamburguesa de Pollo,3,6,45,270,1
+551,Domingo,Antojitos,Hamburguesa sencilla,1,4,40,160,1
+552,Domingo,Antojitos,Papas Fritas,8,2,35,70,0
+553,Domingo,Postres,Helado de limon,13,2,40,80,0
+554,Domingo,Antojitos,Pambazos,9,6,30,180,1
+555,Domingo,Bebidas,Agua de Horchata 1L,20,6,30,180,1
+556,Domingo,Antojitos,Papas Fritas,8,6,35,210,1
+557,Domingo,Postres,Pay de limon,12,4,40,160,1
+558,Domingo,Antojitos,Chalupas,5,4,10,40,1
+559,Domingo,Antojitos,Hamburguesa sencilla,1,3,40,120,-1
+560,Domingo,Antojitos,Chalupas,5,6,10,60,1
+561,Domingo,Antojitos,Burrito de Choriqueso,7,3,40,120,-1
+562,Domingo,Postres,Helado de limon,13,1,40,40,0
+563,Domingo,Antojitos,Hamburguesa sencilla,1,1,40,40,0
+564,Domingo,Bebidas,Boing Mango de 600 ml,16,4,20,80,1
+565,Domingo,Bebidas,Boing Mango de 600 ml,16,7,20,140,1
+566,Domingo,Postres,Helado de fresa,14,7,50,350,1
+567,Domingo,Antojitos,Burrito de Choriqueso,7,4,40,160,1
+568,Domingo,Postres,Pay de limon,12,3,40,120,-1
+569,Domingo,Antojitos,Chalupas,5,7,10,70,1
+570,Domingo,Antojitos,Papas Fritas,8,3,35,105,-1
+571,Domingo,Bebidas,Agua de limon 1L,18,6,25,150,1
+572,Domingo,Postres,Helado de limon,13,1,40,40,0
+573,Domingo,Antojitos,Burrito de Choriqueso,7,7,40,280,1
+574,Domingo,Antojitos,Hamburguesa de Pollo,3,4,45,180,1
+575,Domingo,Antojitos,Burrito de Longaniza,6,2,35,70,0
+576,Domingo,Antojitos,Hamburguesa de doble carne,4,4,75,300,1
+577,Domingo,Bebidas,Refresco Coca Cola 600 ml,15,2,20,40,0
+578,Domingo,Antojitos,Hamburguesa de pollo,3,4,45,180,1
+579,Domingo,Antojitos,Burrito de Choriqueso,7,3,40,120,-1
+580,Domingo,Bebidas,Agua de limon 1L,18,1,25,25,0
+581,Domingo,Bebidas,Agua de limon 1L,18,4,25,100,1
+582,Domingo,Bebidas,Agua de Jamaica 1L,19,2,25,50,0
+583,Domingo,Antojitos,Chalupas,5,6,10,60,1
+584,Domingo,Antojitos,Chalupas,5,3,10,30,-1
+585,Domingo,Antojitos,Hamburguesa de Pollo,3,5,45,225,1
+586,Domingo,Postres,Helado de fresa,14,7,50,350,1
+587,Domingo,Antojitos,Burrito de Choriqueso,7,6,40,240,1
+588,Domingo,Postres,Pastel de 3 leches,11,3,45,135,-1
+589,Domingo,Postres,Pay de limon,12,1,40,40,0
+590,Domingo,Antojitos,Papas Fritas,8,4,35,140,1
+591,Domingo,Antojitos,HotDog,10,3,35,105,-1
+592,Domingo,Bebidas,Agua de limon 1L,18,2,25,50,0
+593,Domingo,Antojitos,Hamburguesa de doble carne,4,7,75,525,1
+594,Domingo,Antojitos,Hamburguesa sencilla,1,5,40,200,1
+595,Domingo,Bebidas,Agua de Jamaica 1L,19,3,25,75,-1
+596,Domingo,Antojitos,Hamburguesa Hawaiana,2,6,50,300,1
+597,Domingo,Antojitos,Chalupas,5,7,10,70,1
+598,Domingo,Antojitos,Chalupas,5,1,10,10,0
+599,Domingo,Antojitos,Burrito de Longaniza,6,3,35,105,-1
+600,Domingo,Postres,Pastel de 3 leches,11,5,45,225,1
+601,Lunes,Antojitos,Hamburguesa de Pollo,3,4,45,180,1
+602,Lunes,Bebidas,Agua de Jamaica 1L,19,3,25,75,-1
+603,Lunes,Bebidas,Agua de Horchata 1L,20,2,30,60,0
+604,Lunes,Bebidas,Agua de Jamaica 1L,19,1,25,25,0
+605,Lunes,Bebidas,Agua de Jamaica 1L,19,1,25,25,0
+606,Lunes,Postres,Pay de limon,12,7,40,280,1
+607,Lunes,Antojitos,Burrito de Longaniza,6,1,35,35,0
+608,Lunes,Postres,Pastel de 3 leches,11,5,45,225,1
+609,Lunes,Antojitos,Hamburguesa de doble carne,4,2,75,150,0
+610,Lunes,Antojitos,Hamburguesa sencilla,1,1,40,40,0
+611,Lunes,Antojitos,Burrito de Longaniza,6,7,35,245,1
+612,Lunes,Antojitos,Hamburguesa de Pollo,3,6,45,270,1
+613,Lunes,Antojitos,Pambazos,9,4,30,120,1
+614,Lunes,Antojitos,Chalupas,5,7,10,70,1
+615,Lunes,Bebidas,Boing de Guayaba 500ml,17,3,18,54,-1
+616,Lunes,Bebidas,Agua de Jamaica 1L,19,6,25,150,1
+617,Lunes,Postres,Helado de limon,13,2,40,80,0
+618,Lunes,Postres,Helado de fresa,14,7,50,350,1
+619,Lunes,Antojitos,Pambazos,9,4,30,120,1
+620,Lunes,Antojitos,Hamburguesa de doble carne,4,6,75,450,1
+621,Lunes,Postres,Pay de limon,12,4,40,160,1
+622,Lunes,Postres,Pastel de 3 leches,11,5,45,225,1
+623,Lunes,Antojitos,Burrito de Longaniza,6,1,35,35,0
+624,Lunes,Postres,Helado de fresa,14,2,50,100,0
+625,Lunes,Postres,Helado de limon,13,4,40,160,1
+626,Lunes,Postres,Pastel de 3 leches,11,1,45,45,0
+627,Lunes,Bebidas,Agua de limon 1L,18,2,25,50,0
+628,Lunes,Antojitos,Hamburguesa sencilla,1,2,40,80,0
+629,Lunes,Antojitos,Hamburguesa Hawaiana,2,1,50,50,0
+630,Lunes,Bebidas,Refresco Coca Cola 600 ml,15,3,20,60,-1
+631,Lunes,Bebidas,Boing de Guayaba 500ml,17,4,18,72,1
+632,Lunes,Bebidas,Boing Mango de 600 ml,16,2,20,40,0
+633,Lunes,Antojitos,Chalupas,5,5,10,50,1
+634,Lunes,Antojitos,Chalupas,5,7,10,70,1
+635,Lunes,Antojitos,Hamburguesa Hawaiana,2,5,50,250,1
+636,Lunes,Antojitos,Pambazos,9,5,30,150,1
+637,Lunes,Postres,Pay de limon,12,6,40,240,1
+638,Lunes,Bebidas,Agua de Jamaica 1L,19,3,25,75,-1
+639,Lunes,Antojitos,Chalupas,5,3,10,30,-1
+640,Lunes,Postres,Pastel de 3 leches,11,2,45,90,0
+641,Lunes,Antojitos,Hamburguesa Hawaiana,2,5,50,250,1
+642,Lunes,Bebidas,Agua de Horchata 1L,20,6,30,180,1
+643,Lunes,Antojitos,Pambazos,9,2,30,60,0
+644,Lunes,Antojitos,Burrito de Longaniza,6,3,35,105,-1
+645,Lunes,Antojitos,Papas Fritas,8,7,35,245,1
+646,Lunes,Antojitos,HotDog,10,4,35,140,1
+647,Lunes,Antojitos,Hamburguesa Hawaiana,2,6,50,300,1
+648,Lunes,Antojitos,Hamburguesa sencilla,1,6,40,240,1
+649,Lunes,Bebidas,Agua de limon 1L,18,2,25,50,0
+650,Lunes,Bebidas,Agua de Horchata 1L,20,4,30,120,1
+651,Lunes,Antojitos,HotDog,10,6,35,210,1
+652,Lunes,Antojitos,Pambazos,9,1,30,30,0
+653,Lunes,Bebidas,Refresco Coca Cola 600 ml,15,5,20,100,1
+654,Lunes,Antojitos,Chalupas,5,7,10,70,1
+655,Lunes,Antojitos,Papas Fritas,8,2,35,70,0
+656,Lunes,Antojitos,Burrito de Longaniza,6,4,35,140,1
+657,Lunes,Bebidas,Boing de Guayaba 500ml,17,5,18,90,1
+658,Lunes,Bebidas,Boing de Guayaba 500ml,17,3,18,54,-1
+659,Lunes,Bebidas,Boing de Guayaba 500ml,17,4,18,72,1
+660,Lunes,Antojitos,Pambazos,9,4,30,120,1
+661,Lunes,Bebidas,Agua de Horchata 1L,20,4,30,120,1
+662,Lunes,Bebidas,Agua de limon 1L,18,2,25,50,0
+663,Lunes,Antojitos,Burrito de Choriqueso,7,6,40,240,1
+664,Lunes,Antojitos,Papas Fritas,8,3,35,105,-1
+665,Lunes,Antojitos,Pambazos,9,3,30,90,-1
+666,Lunes,Bebidas,Refresco Coca Cola 600 ml,15,3,20,60,-1
+667,Lunes,Bebidas,Boing de Guayaba 500ml,17,1,18,18,0
+668,Lunes,Postres,Helado de fresa,14,3,50,150,-1
+669,Lunes,Antojitos,Pambazos,9,3,30,90,-1
+670,Lunes,Bebidas,Refresco Coca Cola 600 ml,15,6,20,120,1
+671,Lunes,Bebidas,Agua de Horchata 1L,20,6,30,180,1
+672,Lunes,Postres,Helado de limon,13,6,40,240,1
+673,Lunes,Postres,Pay de limon,12,6,40,240,1
+674,Lunes,Antojitos,Burrito de Longaniza,6,4,35,140,1
+675,Lunes,Antojitos,Chalupas,5,7,10,70,1
+676,Lunes,Antojitos,Hamburguesa de pollo,3,6,45,270,1
+677,Lunes,Antojitos,Burrito de Longaniza,6,2,35,70,0
+678,Lunes,Bebidas,Refresco Coca Cola 600 ml,15,2,20,40,0
+679,Lunes,Bebidas,Agua de Jamaica 1L,19,4,25,100,1
+680,Lunes,Bebidas,Agua de Horchata 1L,20,1,30,30,0
+681,Lunes,Antojitos,Hamburguesa de doble carne,4,6,75,450,1
+682,Lunes,Bebidas,Agua de Jamaica 1L,19,4,25,100,1
+683,Lunes,Antojitos,Burrito de Choriqueso,7,2,40,80,0
+684,Lunes,Postres,Helado de limon,13,5,40,200,1
+685,Lunes,Antojitos,Papas Fritas,8,6,35,210,1
+686,Lunes,Antojitos,Hamburguesa Hawaiana,2,1,50,50,0
+687,Lunes,Postres,Helado de fresa,14,4,50,200,1
+688,Lunes,Bebidas,Agua de Jamaica 1L,19,2,25,50,0
+689,Lunes,Antojitos,HotDog,10,6,35,210,1
+690,Lunes,Antojitos,Burrito de Longaniza,6,3,35,105,-1
+691,Lunes,Postres,Helado de fresa,14,5,50,250,1
+692,Lunes,Antojitos,Burrito de Longaniza,6,3,35,105,-1
+693,Lunes,Postres,Helado de limon,13,3,40,120,-1
+694,Lunes,Bebidas,Refresco Coca Cola 600 ml,15,5,20,100,1
+695,Lunes,Antojitos,Burrito de Choriqueso,7,2,40,80,0
+696,Lunes,Antojitos,Hamburguesa de doble carne,4,6,75,450,1
+697,Lunes,Antojitos,Hamburguesa de Pollo,3,7,45,315,1
+698,Lunes,Postres,Helado de limon,13,7,40,280,1
+699,Lunes,Antojitos,Hamburguesa de pollo,3,4,45,180,1
+700,Lunes,Bebidas,Boing Mango de 600 ml,16,1,20,20,0
